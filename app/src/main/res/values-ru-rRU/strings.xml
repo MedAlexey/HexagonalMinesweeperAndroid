@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HexagonalMinesweeper</string>
+    <string name="settings">настройки</string>
+    <string name="flag">флаг</string>
+    <string name="question">вопрос</string>
+    <string name="cancel">закрыть</string>
+    <string name="save">сохранить</string>
+    <string name="new_gane">новая игра</string>
+    <string name="height">Высота</string>
+    <string name="width">Ширина</string>
+    <string name="overview">Обзор</string>
+    <string name="you_lose">Вы проиграли.</string>
+    <string name="you_won">Вы выйграли!</string>
+    <string name="new_game">Новая игра</string>
+    <string name="title_activity_settings">Настройки</string>
+    <string name="number_of_mines">Количество мин</string>
+</resources>
